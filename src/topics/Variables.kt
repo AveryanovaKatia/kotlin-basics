@@ -14,12 +14,9 @@ fun main() {
     var test2: String = "Good morning"
     test2 = "Good night"
 
-    /**
-     * равнозначная запись с
+     /** равнозначная запись с :
+           val test3 = "Hello"
+           var test4 = "Good morning"
      */
-
-    val test3 = "Hello"
-
-    var test4 = "Good morning"
 
 }
